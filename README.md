@@ -53,7 +53,7 @@ Merges with ffmpeg → final .mp4 file
 - **Batch / Auto mode** — process a list of URLs automatically from `list-url.txt`
 - **Quality selection** — choose from 144p up to 2160p (4K), or let the tool pick the best available
 - **Auto-play & detect** — automatically triggers video playback to capture stream URLs
-- **Profile cloning** — uses your existing Chrome login without touching your original browser profile
+- **Profile cloning** — uses your existing Chrome profile without touching your original browser profile (It will not copy login/cookies or saved history. You must log back into your Google Drive account.)
 - **Crash reports** — detailed error logs saved locally on failure
 - **Organized output** — each run gets its own timestamped folder inside `output/`
 ---
