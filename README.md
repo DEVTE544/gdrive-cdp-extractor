@@ -28,7 +28,7 @@ The final output is a merged `.mp4` file (video + audio combined) saved to your 
 ```
 User provides URL
        ↓
-Tool clones Chrome profile (keeps your login/cookies)
+Tool clones Chrome profile (It will not copy login/cookies or saved history. You must log back into your Google Drive account.)
        ↓
 Launches Chrome with remote debugging enabled (port 9222)
        ↓
